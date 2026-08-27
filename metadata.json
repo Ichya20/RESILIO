@@ -1,0 +1,6 @@
+{
+  "name": "Resilio",
+  "description": "Predictive Relief Logistics ERP micro-SaaS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
